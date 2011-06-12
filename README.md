@@ -9,11 +9,13 @@ Twitter の Streaming API から任意の文字列で抽出したツイートを
 変更が必要な define は以下の通り。
 
 * index.php
+
 TW_ID
 
 TW_PASS
 
 * streaming.php
+
 PUSHER_KEY
 
 PUSHER_SECRET
@@ -27,6 +29,6 @@ PUSHER_APP_ID
 
 [PHP-Twient](http://github.com/makotokw/php-twient) を利用しています。
 
-[june29](https://github.com/june29/) さんの[rk2010stream](]https://github.com/june29/rk2010stream) を参考および一部引用しています。
+[june29](https://github.com/june29/) さんの [rk2010stream](https://github.com/june29/rk2010stream) を参考および一部引用しています。
 
 
